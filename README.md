@@ -6,8 +6,8 @@ For my Linux Settup
 - Mv the installed config files to the right place
 - Configure them if needed "{your.directorys}"
 
-## Guides i use
-- Read the guides.txt for each purpose
+## Guides to use stuff:
+- Read the /guides/guides.txt for each purpose
 
-## Install done
+## Finish the install
 - Restart X and troubleshoot if needed
