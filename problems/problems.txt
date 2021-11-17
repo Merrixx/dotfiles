@@ -1,0 +1,10 @@
+Pipewire Audio broken:
+https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1003
+
+    Audio Pipewire Noise Surpression:
+        -EasyEffects
+
+
+Mouse Cursor Theme:
+- https://wiki.archlinux.org/title/Cursor_themesw
+

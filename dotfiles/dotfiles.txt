@@ -1,0 +1,99 @@
+$$$$$$$\             $$\      $$$$$$\  $$\ $$\                     
+$$  __$$\            $$ |    $$  __$$\ \__|$$ |                    
+$$ |  $$ | $$$$$$\ $$$$$$\   $$ /  \__|$$\ $$ | $$$$$$\   $$$$$$$\ 
+$$ |  $$ |$$  __$$\\_$$  _|  $$$$\     $$ |$$ |$$  __$$\ $$  _____|
+$$ |  $$ |$$ /  $$ | $$ |    $$  _|    $$ |$$ |$$$$$$$$ |\$$$$$$\  
+$$ |  $$ |$$ |  $$ | $$ |$$\ $$ |      $$ |$$ |$$   ____| \____$$\ 
+$$$$$$$  |\$$$$$$  | \$$$$  |$$ |      $$ |$$ |\$$$$$$$\ $$$$$$$  |
+\_______/  \______/   \____/ \__|      \__|\__| \_______|\_______/ 
+
+
+
+     _ __   __ _  ___ _ __ ___   __ _ _ __  
+    | '_ \ / _` |/ __| '_ ` _ \ / _` | '_ \ 
+    | |_) | (_| | (__| | | | | | (_| | | | |
+    | .__/ \__,_|\___|_| |_| |_|\__,_|_| |_|
+    |_|         
+
+#Overall look:
+
+    #WM
+        -herbstluftwm 
+    
+    #Background
+        -nitrogen
+    
+    #Application launcher
+        -rofi
+
+    #Terminal
+        -kitty
+
+    #File-Manager
+        -spacefm
+
+    #Application looks
+        -lxappearance
+        -qt5ct
+
+
+
+#Functionality
+
+    -play-erctl 
+    -pipewire 
+    -pipewire-pulse 
+    -pipewire-jack 
+    -pamixer 
+    -pipewire-alsa
+    -unzip
+    -pacman-mirrorlist
+    -ntfs-3g
+    -easyeffects
+    -figlet
+    -flameshot
+    -gimp
+    -grub-customizer
+    -hacked-aio-righty
+    -lolcat
+    -mopidy-spotify
+    -nano-syntax-highlighting
+    -neofetch
+    -os-prober
+    -pfetch
+    -steam
+    -tiolet
+    -tor 
+    -vim 
+    -visual-studio-code-bin 
+    -xclip
+    -yay-git
+
+#Fonts
+
+    -Font-Awesome
+    -nerd-Font
+    -SF
+    -IPAGothic
+    
+SAVE_LOCATION:"/usr/local/share/fonts"
+
+
+    
+    
+
+
+     _   _  __ _ _   _ 
+    | | | |/ _` | | | |
+    | |_| | (_| | |_| |
+     \__, |\__,_|\__, |
+     |___/       |___/
+        
+        
+    -colorpicker
+    -ncspot
+    -hollywood
+    -polybar
+    -spacefm
+    -spotify
+    -update-grub

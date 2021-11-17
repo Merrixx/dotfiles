@@ -1,0 +1,5 @@
+#Give Out OS and WM Name
+#echo "ArchLinux on HerbstluftWM"
+#echo ArchLinux on HerbstluftWM
+#echo %{T3 F#000000} ArchLinux on HerbstluftWM %{F- T-}
+echo %{T9 F#810006 u#810006}%{+u} ArchLinux on HerbstlutfWM %{-u}%{F- u- T-}
