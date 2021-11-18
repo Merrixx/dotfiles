@@ -35,39 +35,42 @@ $$$$$$$  |\$$$$$$  | \$$$$  |$$ |      $$ |$$ |\$$$$$$$\ $$$$$$$  |
     #Application looks
         -lxappearance
         -qt5ct
+		-dunst
 
 
 
 #Functionality
 
-    -play-erctl 
-    -pipewire 
-    -pipewire-pulse 
-    -pipewire-jack 
-    -pamixer 
-    -pipewire-alsa
-    -unzip
-    -pacman-mirrorlist
-    -ntfs-3g
-    -easyeffects
-    -figlet
-    -flameshot
-    -gimp
-    -grub-customizer
-    -hacked-aio-righty
-    -lolcat
-    -mopidy-spotify
-    -nano-syntax-highlighting
-    -neofetch
-    -os-prober
-    -pfetch
-    -steam
-    -tiolet
-    -tor 
-    -vim 
-    -visual-studio-code-bin 
-    -xclip
-    -yay-git
+    play-erctl 
+    pipewire 
+    pipewire-pulse 
+    pipewire-jack 
+    pamixer 
+    pipewire-alsa
+    unzip
+    pacman-mirrorlist
+    ntfs-3g
+    easyeffects
+    figlet
+    flameshot
+    gimp
+    grub-customizer
+    hacked-aio-righty
+    lolcat
+    mopidy-spotify
+    nano-syntax-highlighting
+    neofetch
+    os-prober
+    pfetch
+    steam
+    tiolet
+    tor 
+    vim
+	neovim
+    visual-studio-code-bin 
+    xclip
+    yay-git
+	libre-office
 
 #Fonts
 
@@ -75,7 +78,8 @@ $$$$$$$  |\$$$$$$  | \$$$$  |$$ |      $$ |$$ |\$$$$$$$\ $$$$$$$  |
     -nerd-Font
     -SF
     -IPAGothic
-    
+	-If installed mnt Windows Partition and copy all fonts from there
+
 SAVE_LOCATION:"/usr/local/share/fonts"
 
 
@@ -90,10 +94,12 @@ SAVE_LOCATION:"/usr/local/share/fonts"
      |___/       |___/
         
         
-    -colorpicker
-    -ncspot
-    -hollywood
-    -polybar
-    -spacefm
-    -spotify
-    -update-grub
+    colorpicker
+    ncspot
+    hollywood
+    polybar
+    spacefm
+    spotify
+	update-grub
+	cava
+	shell-color-scripts
