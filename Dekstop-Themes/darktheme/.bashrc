@@ -25,5 +25,5 @@ PS1='\[\033[31m\] \u@arch: [\W] \$ \[\033[37m\]'
 shopt -s checkwinsize
 
 echo ""
-neofetch --colors 8 8 8 1 6 8 --source .config/ascii/ascii-dragon --set-colors 8 8 8 8 8 8 #--ascii_distro blackarch 
+neofetch --colors 8 8 8 1 6 8 --source ~/.config/ascii/ascii-dragon --set-colors 8 8 8 8 8 8 #--ascii_distro blackarch 
 #pfetch
